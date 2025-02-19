@@ -58,7 +58,7 @@ Details about the machine learning model(s) used, including architecture, hyperp
 
 Summary of the model's performance, with metrics and visualizations. Include comparisons with baseline models if relevant.
 
-## Contributing
+## Contributing 
 
 Guidelines for contributing to the project, including how to report issues or propose changes.
 
